@@ -1,0 +1,2 @@
+- Added links and social links dynamically from data.js
+- Dynamically change height of the navbar , using useRef hook
